@@ -18,5 +18,7 @@
 
 #### Acknowledgements:
 [r/kpop](https://www.reddit.com/r/kpop/)
+
 [Scriptable](https://scriptable.app)
+
 [Scriptable Docs](https://docs.scriptable.app)
