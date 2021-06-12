@@ -9,9 +9,9 @@
 --- 
 
 <p align= "center">
-<img src= "Screenshots/screenshot1.png" width = "600">
-<img src= "Screenshots/screenshot2.png" width = "600">
-<img src= "Screenshots/screenshot3.png" width = "600">
+<img src= "Screenshots/screenshot1.png" width = "300">
+<img src= "Screenshots/screenshot2.png" width = "300">
+<img src= "Screenshots/screenshot3.png" width = "300">
 </p>
 
 --- 
