@@ -12,7 +12,7 @@ if (config.runsInWidget) {
 Script.complete()
 
 async function fetchMusicVideos() {
-    let url = "https://www.reddit.com/r/kpop/search/.json?q=flair_name%3A%22%5BMV%5D%22&restrict_sr=true&t=day&sort=hot"
+    let url = "https://www.reddit.com/r/kpop/search/.json?q=flair%3Amv&restrict_sr=on&t=all&feature=legacy_search&sort=new"
     
     let request = new Request(url)
     let json = await request.loadJSON()
